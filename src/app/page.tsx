@@ -3,7 +3,7 @@ import { StrategyList } from './components/strategies-list/strategies.list';
 import './globals.scss';
 import styles from './page.module.scss';
 
-//TODO
+//TODO testing
 const Home = () => {
   return (
     <div
